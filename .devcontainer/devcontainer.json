@@ -9,7 +9,7 @@
             "version": "17"
         },
         "ghcr.io/devcontainers/features/dotnet": {
-	    "version": "7.0"
+	    "version": "7"
 	}
     },
     "customizations": {
